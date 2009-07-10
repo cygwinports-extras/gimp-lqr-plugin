@@ -1,0 +1,8 @@
+category: Graphics Gnome
+requires: gimp2 libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libintl8 liblqr1_0
+sdesc: "GIMP Liquid Rescale plugin"
+ldesc: "This is a GIMP plugin for the Liquid Rescale Library, which 
+provides an implementation of the Seam Carving algorithm. The Seam 
+Carving procedure aims at resizing pictures non uniformly while 
+preserving their features, i.e. avoiding distortion of the important 
+parts."
