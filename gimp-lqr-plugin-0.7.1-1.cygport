@@ -1,0 +1,11 @@
+inherit gnome2
+
+CATEGORY="Graphics"
+SUMMARY="GIMP Liquid Rescale plugin"
+DESCRIPTION="This is a GIMP plugin for the Liquid Rescale Library, which
+provides an implementation of the Seam Carving algorithm. The Seam
+Carving procedure aims at resizing pictures non uniformly while
+preserving their features, i.e. avoiding distortion of the important
+parts."
+HOMEPAGE="http://liquidrescale.wikidot.com/"
+SRC_URI="http://liquidrescale.wikidot.com/local--files/en:download-page-sources/${P}.tar.bz2"
